@@ -9,5 +9,5 @@ def factorial(num):
        fact = fact*i
    print("The factorial of",num,"is",fact)
 
-num = int(input("Enter your name : ")) 
+num = int(input("Enter the number : ")) 
 factorial(num)
